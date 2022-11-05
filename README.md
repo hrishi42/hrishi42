@@ -17,7 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishi42" alt="hrishi42" /></a> </p>
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishi42&show_icons=true&locale=en&layout=compact" alt="hrishi42" />
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishi42&show_icons=true&locale=en" alt="hrishi42" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishi42&show_icons=true&locale=en" alt="hrishi42" /></a>
 </p>
-
-</p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishi42&" alt="hrishi42" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishi42&" alt="hrishi42" /></p>
