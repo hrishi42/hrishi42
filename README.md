@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishi42&label=Profile%20views&color=0e75b6&style=flat" alt="hrishi42" /> 
 </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishi42" alt="hrishi42" /></a> </p>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishi42&show_icons=true&locale=en&layout=compact" alt="hrishi42" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishi42&show_icons=true&locale=en&layout=compact" alt="hrishi42" />
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrishi42&show_icons=true&locale=en" alt="hrishi42" />
 </p>
