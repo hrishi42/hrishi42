@@ -3,7 +3,8 @@
 
 <h3 align="left">Social:</h3>
 <a href="https://www.linkedin.com/in/hrishik42/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="hrishik42" width="30" height="40"/></a> 
-<a href="https://instagram.com/m.a.r.k.42" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.a.r.42" width="30" height="40"/></a> 
+<a href="https://instagram.com/m.a.r.k.42" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.a.r.42" width="30" height="40"/></a>
+ <a href="https://twitter.com/m_a_r_k_42" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_a_r_k_42" width="30" height="40"/></a>
 </p>
 </p>
 
