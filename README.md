@@ -1,5 +1,5 @@
 
-<h1 align="center">✨Hello World ✋, I'm 👨‍💻 Hrishikesh </h1>
+<h1 align="center">✨I'm ☺ Hrishikesh </h1>
 
 <h3 align="left">Social:</h3>
 <a href="https://www.linkedin.com/in/hrishik42/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="hrishik42" width="30" height="40"/></a> 
